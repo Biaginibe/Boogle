@@ -1,0 +1,13 @@
+fieldset{
+    width: 10%;
+    margin-top: 125%;
+}
+.center{
+    margin: auto;
+    width: 12%;
+    background-color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

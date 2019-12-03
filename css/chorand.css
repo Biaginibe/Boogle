@@ -1,0 +1,72 @@
+fieldset {
+    width: 10%;
+    margin-top: 125%;
+}
+
+.center {
+    margin: auto;
+    width: 12%;
+}
+
+#busca {
+    display: inline;
+    flex-wrap: nowrap;
+    margin-left: 24%;
+}
+
+#booble {
+    font-size: 80px;
+    font-family: 'Modak', cursive;
+    margin-left: 41%;
+    margin-top: 7%;
+}
+
+#boog {
+    font-size: 43px;
+    font-family: 'Modak', cursive;
+}
+
+#linkpreto {
+    text-decoration: none;
+    color: black;
+}
+
+#linkpreto:hover {
+    text-decoration: none;
+    color: gray;
+}
+
+#busca2 {
+    margin-left: 12%;
+    margin-top: -7%;
+    padding-bottom: 4%;
+}
+
+#listar {
+    padding-left: 12%;
+}
+
+.endereco {
+    font-size: 35px;
+}
+
+.endereco:hover {
+    font-size: 33px;
+    color: #3d0099;
+}
+
+.url {
+    font-size: 18px;
+    color: #006621;
+    font-weight;
+    : bold;
+}
+
+td {
+    border-right: thin solid black;
+    padding-right: 11%;
+}
+
+#botoes {
+    padding-left: 7%;
+}

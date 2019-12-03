@@ -1,0 +1,19 @@
+fieldset{
+    width: 10%;
+    margin-top: 125%;
+}
+.center{
+    margin: auto;
+    width: 12%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#busca{
+    display: inline;
+    flex-wrap: nowrap;
+}
+#booble{
+    font-family: 'Modak', cursive;
+}
